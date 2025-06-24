@@ -34,6 +34,9 @@ Altera o diretório de trabalho atual.
 #### Git commit -m "Mensagem":
 Incluir uma mensagem no commit.
 
+#### Git push origin main:
+Após incluir a mensagem no commit, enviar para o servidor remoto GitHub.
+
 ## Dica Extra:
 Clique com botão direito na pasta onde deseja iniciar o Git. Clique em "Open Git Bash here".
 
